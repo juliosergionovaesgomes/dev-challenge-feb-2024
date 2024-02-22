@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # dev-challenge-feb-2024
 Desafio CAP SAP
-=======
+
+
 # Getting Started
 
 Welcome to your new project.
@@ -27,4 +27,4 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
->>>>>>> 97f2819 (First commit)
+
